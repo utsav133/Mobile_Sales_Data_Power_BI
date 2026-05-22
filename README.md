@@ -117,6 +117,4 @@ Planned future enhancements include:
 🎓 Chemical Engineering | NIT Warangal  
 📊 Aspiring Data & Business Analyst
 
-
-- 💻 GitHub: https://github.com/yourusername
-- 🔗 LinkedIn: https://linkedin.com/in/yourusername
+🔗 LinkedIn: https://www.linkedin.com/in/utsav-mathuria-22260b187/
