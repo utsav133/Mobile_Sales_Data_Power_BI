@@ -1,6 +1,6 @@
- 📱 Mobile Sales Dashboard
+ # 📱 Mobile Sales Dashboard
 
- 📌 Project Overview
+ # 📌 Project Overview
 
 - Developed an interactive **Mobile Sales Analytics Dashboard** using **Power BI**
 - Designed to analyze:
